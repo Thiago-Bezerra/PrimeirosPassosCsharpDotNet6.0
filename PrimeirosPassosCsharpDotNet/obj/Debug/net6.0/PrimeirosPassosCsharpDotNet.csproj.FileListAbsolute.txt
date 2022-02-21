@@ -1,0 +1,15 @@
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.csproj.AssemblyReference.cache
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.AssemblyInfoInputs.cache
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.AssemblyInfo.cs
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.csproj.CoreCompileInputs.cache
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\bin\Debug\net6.0\PrimeirosPassosCsharpDotNet.exe
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\bin\Debug\net6.0\PrimeirosPassosCsharpDotNet.deps.json
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\bin\Debug\net6.0\PrimeirosPassosCsharpDotNet.runtimeconfig.json
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\bin\Debug\net6.0\PrimeirosPassosCsharpDotNet.dll
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\bin\Debug\net6.0\PrimeirosPassosCsharpDotNet.pdb
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.dll
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\refint\PrimeirosPassosCsharpDotNet.dll
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.pdb
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\PrimeirosPassosCsharpDotNet.genruntimeconfig.cache
+D:\Programaçao\BootCamp_DIO\C#.Net\PrimeirosPassosCsharpDotNet6.0\PrimeirosPassosCsharpDotNet\obj\Debug\net6.0\ref\PrimeirosPassosCsharpDotNet.dll
